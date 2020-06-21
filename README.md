@@ -31,7 +31,14 @@ npm install
 $ node server.js
 ```
 
-5. Access the URL
+5. Print or display AR marker   
+
+In this repository, use the marker.  
+
+![ar marker](./picture_readme/ar-marker.png)    
+
+
+6. Access the URL
 
 https://localhost:8080
 
